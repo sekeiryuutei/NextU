@@ -1,0 +1,13 @@
+.logo, .datos, .enlaces, .pie {
+    background-color: #37a9ce;
+}
+
+.estudios {
+    display: flex;
+    margin: 10px;
+}
+
+.info {
+    display: flex;
+    flex-flow: column;
+}
